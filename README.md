@@ -1,4 +1,4 @@
-# Exploração de dados sobre o dataset Drinking Water Potability
+# Exploração de dados: Drinking Water Potability
 
 ## Introdução
 
